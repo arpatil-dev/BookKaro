@@ -247,7 +247,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         price: [780, 780, 550, 550, 550, 550, 420, 420],
         date: 11,
         img: 'img/eesho.jpeg',
-        video: 'video/Eesho Official Trailer-(HDvideo9).mp4',
+        video: 'video/Eesho.mp4',
         background: 'img/bg.png',
     },
     {
@@ -270,7 +270,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         price: [790, 790, 560, 560, 560, 560, 430, 430],
         date: 12,
         img: 'img/eesho.jpeg',
-        video: 'video/Eesho Official Trailer-(HDvideo9).mp4',
+        video: 'video/Eesho.mp4',
         background: 'img/bg.png',
     },
     {
@@ -293,7 +293,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         price: [770, 770, 540, 540, 540, 540, 410, 410],
         date: 13,
         img: 'img/eesho.jpeg',
-        video: 'video/Eesho Official Trailer-(HDvideo9).mp4',
+        video: 'video/Eesho.mp4',
         background: 'img/bg.png',
     },
     {
@@ -316,7 +316,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         price: [800, 800, 560, 560, 560, 560, 430, 430],
         date: 14,
         img: 'img/eesho.jpeg',
-        video: 'video/Eesho Official Trailer-(HDvideo9).mp4',
+        video: 'video/Eesho.mp4',
         background: 'img/bg.png',
     },
     {
@@ -339,7 +339,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         price: [790, 790, 560, 560, 560, 560, 430, 430],
         date: 15,
         img: 'img/eesho.jpeg',
-        video: 'video/Eesho Official Trailer-(HDvideo9).mp4',
+        video: 'video/Eesho.mp4',
         background: 'img/bg.png',
     },{
         pvr: 'PVR Vegus',
@@ -475,7 +475,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         price: [800, 800, 560, 560, 560, 560, 430, 430],
         date: 11,
         img: 'img/jailer.jpg',
-        video: 'video/Jailer Official Trailer-(HDvideo9).mp4',
+        video: 'video/Jailer.mp4',
         background: 'img/bg.png',
       },
       {
@@ -498,7 +498,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         price: [790, 790, 560, 560, 560, 560, 430, 430],
         date: 12,
         img: 'img/jailer.jpg',
-        video: 'video/Jailer Official Trailer-(HDvideo9).mp4',
+        video: 'video/Jailer.mp4',
         background: 'img/bg.png',
       },
       {
@@ -521,7 +521,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         price: [780, 780, 550, 550, 550, 550, 420, 420],
         date: 13,
         img: 'img/jailer.jpg',
-        video: 'video/Jailer Official Trailer-(HDvideo9).mp4',
+        video: 'video/Jailer.mp4',
         background: 'img/bg.png',
       },
       {
@@ -544,7 +544,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         price: [820, 820, 590, 590, 590, 590, 460, 460],
         date: 14,
         img: 'img/jailer.jpg',
-        video: 'video/Jailer Official Trailer-(HDvideo9).mp4',
+        video: 'video/Jailer.mp4',
         background: 'img/bg.png',
       },
       {
@@ -567,7 +567,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         price: [770, 770, 540, 540, 540, 540, 410, 410],
         date: 15,
         img: 'img/jailer.jpg',
-        video: 'video/Jailer Official Trailer-(HDvideo9).mp4',
+        video: 'video/Jailer.mp4',
         background: 'img/bg.png',
       },{
         pvr: 'PVR Vegus',
@@ -589,7 +589,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         price: [800, 800, 560, 560, 560, 560, 430, 430],
         date: 11,
         img: 'img/spiderman.jpg',
-        video: 'video/Spiderman Official Trailer-(HDvideo9).mp4',
+        video: 'video/Spiderman.mp4',
         background: 'img/bg.png',
       },
       {
@@ -612,7 +612,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         price: [790, 790, 560, 560, 560, 560, 430, 430],
         date: 12,
         img: 'img/spiderman.jpg',
-        video: 'video/Spiderman Official Trailer-(HDvideo9).mp4',
+        video: 'video/Spiderman.mp4',
         background: 'img/bg.png',
       },
       {
@@ -635,7 +635,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         price: [780, 780, 550, 550, 550, 550, 420, 420],
         date: 13,
         img: 'img/spiderman.jpg',
-        video: 'video/Spiderman Official Trailer-(HDvideo9).mp4',
+        video: 'video/Spiderman.mp4',
         background: 'img/bg.png',
       },
       {
@@ -658,7 +658,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         price: [820, 820, 590, 590, 590, 590, 460, 460],
         date: 14,
         img: 'img/spiderman.jpg',
-        video: 'video/Spiderman Official Trailer-(HDvideo9).mp4',
+        video: 'video/Spiderman.mp4',
         background: 'img/bg.png',
       },
       {
@@ -681,7 +681,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         price: [770, 770, 540, 540, 540, 540, 410, 410],
         date: 15,
         img: 'img/spiderman.jpg',
-        video: 'video/Spiderman Official Trailer-(HDvideo9).mp4',
+        video: 'video/Spiderman.mp4',
         background: 'img/bg.png',
       },{
         pvr: 'PVR Vegus',
@@ -703,7 +703,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         price: [800, 800, 560, 560, 560, 560, 430, 430],
         date: 11,
         img: 'img/eternals.jpg',
-        video: 'video/Eternals Official Trailer-(HDvideo9).mp4',
+        video: 'video/Eternals.mp4',
         background: 'img/bg.png',
       },
       {
@@ -726,7 +726,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         price: [790, 790, 560, 560, 560, 560, 430, 430],
         date: 12,
         img: 'img/eternals.jpg',
-        video: 'video/Eternals Official Trailer-(HDvideo9).mp4',
+        video: 'video/Eternals.mp4',
         background: 'img/bg.png',
       },
       {
@@ -749,7 +749,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         price: [780, 780, 550, 550, 550, 550, 420, 420],
         date: 13,
         img: 'img/eternals.jpg',
-        video: 'video/Eternals Official Trailer-(HDvideo9).mp4',
+        video: 'video/Eternals.mp4',
         background: 'img/bg.png',
       },
       {
@@ -772,7 +772,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         price: [820, 820, 590, 590, 590, 590, 460, 460],
         date: 14,
         img: 'img/eternals.jpg',
-        video: 'video/Eternals Official Trailer-(HDvideo9).mp4',
+        video: 'video/Eternals.mp4',
         background: 'img/bg.png',
       },
       {
@@ -795,7 +795,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         price: [770, 770, 540, 540, 540, 540, 410, 410],
         date: 15,
         img: 'img/eternals.jpg',
-        video: 'video/Eternals Official Trailer-(HDvideo9).mp4',
+        video: 'video/Eternals.mp4',
         background: 'img/bg.png',
       },
     // ... (similar changes for other entries)
